@@ -1,0 +1,24 @@
+.Title .edit-icon {
+    opacity: 0;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.Title:hover .edit-icon {
+    opacity: 1;
+}
+
+.Title .form-control {
+    height: 60px; 
+    font-size: 24px;
+    
+}
+.Title{
+    color: #5d5d5f;
+    text-shadow: 5px 0px  1px #010303;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif,Arial;
+    box-shadow: 2px 2px  5px #010303;
+    padding: 5px;
+    background: #9bacac; 
+    
+}

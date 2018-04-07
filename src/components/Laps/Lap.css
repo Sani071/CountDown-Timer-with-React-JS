@@ -1,0 +1,8 @@
+.laping-wrapper{
+    box-shadow: 3px 5px 5px rgb(4, 1, 20);
+   
+}
+.laping-wrapper ul li{
+    background: rgb(92, 121, 175) !important;
+    padding: 5px;
+}

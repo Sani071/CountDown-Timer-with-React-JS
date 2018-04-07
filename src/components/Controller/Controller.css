@@ -1,0 +1,26 @@
+.btn-start{
+    background: #717FBE;
+}
+.btn-pause{
+ background: #218838;
+
+}
+.btn-lap{
+background:#4092BC;
+}
+.btn-reset{
+background: #fc280c;
+box-shadow: 2px 2px 2px rgb(3, 7, 7) !important;
+}
+.btn{
+    color: rgb(177, 189, 223) !important;
+    font-size:25px !important;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif !important;
+    box-shadow: 5px 2px 5px rgb(12, 14, 14);
+    margin-top:15px;
+    
+    text-shadow: 5px 0px  1px #010303;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif,Arial;
+   
+    
+}
